@@ -50,10 +50,5 @@ Output
 ### Recognizing the panorama
 We did a brute force feature matching with all possible pairs and recognised the best possible way to stitch images, aka recognizing panorama, using graph based approach outlined below
 
-<p float="middle">
-<img src="report/phase1/graph_appraoch.png" />
-</p>
-
-
 ## Collaborators 
 Sairaam Venkataramani
