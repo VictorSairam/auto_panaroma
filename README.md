@@ -19,19 +19,6 @@
 
 # Results 
 
-### Test Set
-Given Images
-<p float="middle">
-  <img src="Phase1/Data/Test/TestSet2/1.jpg" width="250" hspace="20" />
-  <img src="Phase1/Data/Test/TestSet2/2.jpg" width="250" hspace="20" /> 
-  <img src="Phase1/Data/Test/TestSet2/3.jpg" width="250" hspace="20" />
-</p>
-
-Output
-<p float="middle">
-<img src="report/phase1/testset2_image123_clear_stitch3.png" width="500" height="500"/>
-</p>
-
 ### Custom Set
 Following are the images we took at WPI
 
